@@ -9,3 +9,5 @@ But is it really though?
 *Right. Now go to Wikimedia to find some free pictures.*
 
 [link test](google.com)
+
+*You can also put images in the docs folder of this repository, push it to github, then type /name.png/jpg/jpeg at teh end of the url*
