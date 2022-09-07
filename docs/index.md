@@ -7,7 +7,8 @@ But is it really though?
 *Ughh*
 
 *Right. Now go to Wikimedia to find some free pictures.*
+*Save html files as index.html*
 
 [link test](https://www.google.com)
 
-*You can also put images in the docs folder of this repository, push it to github, then type /name.png/jpg/jpeg at teh end of the url*
+*You can also put images in the docs folder of this repository, push it to github, then type /name.png/jpg/jpeg at the end of the url*
